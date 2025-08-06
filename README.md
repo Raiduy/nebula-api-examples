@@ -9,12 +9,12 @@ Create your .env file in the root folder of the project, with the following stru
 NEBULA_API_KEY=<your Nebula API key>
 ```
 
-API keys can be found in `Settings -> Account -> API Keys -> Show'
+API keys can be found in `Settings -> Account -> API Keys -> Show`
 
 
 ### install Python packages
 Run the following command to install the required Python packages
 ```bash
-pip install -r ./requirements.txt
+pip install -r requirements.txt
 ```
 
